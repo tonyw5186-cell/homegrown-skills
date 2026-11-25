@@ -19,5 +19,5 @@ python scripts/skills_sh_trending.py --limit 10
 
 ## 文件
 
-- `SKILL.md`：DSH Agent Skill 定义。
+- `SKILL.md`：通用 Agent Skill 定义与调用说明。
 - `scripts/skills_sh_trending.py`：Python 标准库页面解析脚本。

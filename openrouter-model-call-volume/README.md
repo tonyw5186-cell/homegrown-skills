@@ -19,5 +19,5 @@ python scripts/openrouter_rankings.py --limit 10
 
 ## 文件
 
-- `SKILL.md`：DSH Agent Skill 定义。
+- `SKILL.md`：通用 Agent Skill 定义与调用说明。
 - `scripts/openrouter_rankings.py`：Python 标准库抓取与解析脚本。

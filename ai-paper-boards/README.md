@@ -21,5 +21,5 @@ python scripts/paper_boards.py --days 7 --limit 10
 
 ## 文件
 
-- `SKILL.md`：DSH Agent Skill 定义。
+- `SKILL.md`：通用 Agent Skill 定义与调用说明。
 - `scripts/paper_boards.py`：Python 标准库抓取与解析脚本。

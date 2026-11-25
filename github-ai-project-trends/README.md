@@ -22,5 +22,5 @@ python scripts/github_ai_projects.py --limit 10 --release-downloads
 
 ## 文件
 
-- `SKILL.md`：DSH Agent Skill 定义及安全/指标约束。
+- `SKILL.md`：通用 Agent Skill 定义及安全/指标约束。
 - `scripts/github_ai_projects.py`：Python 标准库 GitHub API 客户端。
